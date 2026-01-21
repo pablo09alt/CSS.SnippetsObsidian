@@ -23,8 +23,13 @@ This a repo to publish some CSS Snippets and plugins for Obsidian
 
 
 ## How to install ?
+#### Snippets :
 You can simply download the files and put them in your vault, in the "snippets" folder (you must create him if you never use a snippet) which is in the .obsidian folder. 
 After that, go to Obsidian > Settings > Apparence and at the bottom of the page, click on recharge snippets and the snippet will appear ! 
+
+#### Plugins : 
+You must download the whole folder with the chosen plugin. After that, go in the "plugins" folder (you must create him if you never use a plugin) which is in the .obsidian folder.
+After that, simply go in the plugins settings in Obsidian and the plugin should appear
 
 ## Questions ?
 For any question, you can write me at helver@duck.com or simply on reddit : https://www.reddit.com/user/pablo_main/
