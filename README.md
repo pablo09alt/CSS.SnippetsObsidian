@@ -31,4 +31,5 @@ For any question, you can write me at helver@duck.com or simply on reddit : http
 
 
 **Made with 🩵 by Pablo**
-2026
+
+: 2026
