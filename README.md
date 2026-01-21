@@ -22,6 +22,11 @@ This a repo to publish some CSS Snippets and plugins for Obsidian
 4. [Forest_theme.css](forest_theme.css) : A theme with forest items for the folders icon (fox, trees, animals, etc...) and a general green theme
 
 
+## **Plugins** :
+1. [Calculator](Plugins/chrono) : This plugin is simply adding a calculator in the left lateral bar.
+2. [Mini-Chrono](Plugins/chrono) : This plugin is adding a little chronometer on the bottom of the bar under the writing page. Simply press on it to active or stop and right click on it to reset. 
+
+
 ## How to install ?
 #### Snippets :
 You can simply download the files and put them in your vault, in the "snippets" folder (you must create him if you never use a snippet) which is in the .obsidian folder. 
