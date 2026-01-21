@@ -1,0 +1,7 @@
+{
+  "name": "Mini Chrono",
+  "version": "1.0.0",
+  "description": "Un plugin pour gérer un mini chronomètre dans Obsidian.",
+  "author": "Pablo",
+  "main": "main.js"
+}
