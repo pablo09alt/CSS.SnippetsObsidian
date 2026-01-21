@@ -1,0 +1,9 @@
+{
+    "id": "micro-calculatrice",
+    "name": "Micro Calculatrice",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Une calculatrice simple dans la barre latérale",
+    "author": "Gemini",
+    "isDesktopOnly": false
+}
