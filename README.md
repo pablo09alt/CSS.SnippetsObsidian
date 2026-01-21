@@ -23,7 +23,7 @@ This a repo to publish some CSS Snippets and plugins for Obsidian
 
 
 ## **Plugins** :
-1. [Calculator](Plugins/chrono) : This plugin is simply adding a calculator in the left lateral bar.
+1. [Calculator](Plugins/calculator) : This plugin is simply adding a calculator in the left lateral bar.
 2. [Mini-Chrono](Plugins/chrono) : This plugin is adding a little chronometer on the bottom of the bar under the writing page. Simply press on it to active or stop and right click on it to reset. 
 
 
