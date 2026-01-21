@@ -1,0 +1,7 @@
+{
+  "name": "Chrono",
+  "version": "1.0.0",
+  "description": "Un plugin pour gérer un chronomètre dans Obsidian.",
+  "author": "Pablo",
+  "main": "main.js"
+}
