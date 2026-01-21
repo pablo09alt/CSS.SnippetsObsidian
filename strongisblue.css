@@ -1,0 +1,5 @@
+/* Rend le texte gras bleu dans l'éditeur et le mode lecture */
+strong, b, .cm-strong {
+    color: #2b7fff; /* Tu peux changer ce code hexadécimal pour une autre nuance */
+    font-weight: bold;
+}
